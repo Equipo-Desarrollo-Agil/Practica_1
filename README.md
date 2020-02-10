@@ -27,14 +27,15 @@ Podemos encontrar varias alternativas de uso parecido a ésta:
 
 
 <img src="trello.png" width="350" height="150" />
--KanbanFlow: es un tablero que permite organizar tu trabajo de forma visual, además de simplificar la comunicación en equipo para aumentar la productividad.
+
+- KanbanFlow: es un tablero que permite organizar tu trabajo de forma visual, además de simplificar la comunicación en equipo para aumentar la productividad.
 Los tableros se organizan de forma vertical y a cada tablero le puedes añadir diferentes columnas en las que puedes añadir tarjetas con colores y miembros de equipos asignados, también puedes añadir tareas y subtareas.
 La diferencia frente a Trello, Trello no consigue añadir un límite de tareas a una columna para mantener algunos proyectos más enfocados y no abusar de multitareas. Permite seleccionar las tarjetas por color, etiqueta, usuario o fecha de vencimiento. Tiene cuentas con integración con Dorpbox, Box y Google Drive.
 
 
 <img src="kanbanflow.jpg" width="350" height="150" />
 
--Archmule: es una alternativa simplificada a Trello, funciona de la misma manera, un gran tablero con columnas que puedes arrastrar diferentes tareas en forma de tarjetas. También tiene una página de inicio en la que se muestra el resumen con lo más importante de cada actualización de cada equipo o proyecto.
+- Archmule: es una alternativa simplificada a Trello, funciona de la misma manera, un gran tablero con columnas que puedes arrastrar diferentes tareas en forma de tarjetas. También tiene una página de inicio en la que se muestra el resumen con lo más importante de cada actualización de cada equipo o proyecto.
 Con Archmule puedes crear proyectos privados o públicos y compartirlos, es bastante social, los tableros ofrecen la opción de “seguir” o dar “me gusta”, además tienes un espacio para conversar con los miembros de cada tablero, “hub” que es un mini chat.
 
 
