@@ -62,3 +62,18 @@ Bitbucket es un servicio de alojamiento basado en web, para los proyectos que ut
 
 
 <img src="bitbucket.png" width="350" height="150" />
+
+## Capturas de Slack
+
+<img src="slack1.png" width="2000" height="600" />
+<img src="slack2.png" width="2000" height="600" />
+<img src="slack3.png" width="2000" height="600" />
+
+
+## Capturas de Trello
+
+<img src="trello1.png" width="2000" height="600" />
+<img src="Trello2.png" width="2000" height="600" />
+<img src="Trello3.png" width="2000" height="600" />
+<img src="Trello4.png" width="2000" height="600" />
+<img src="Trello5.png" width="2000" height="600" />
